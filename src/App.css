@@ -1,0 +1,15 @@
+/* body, html, #root {
+  height: 100%;
+  width: 100%;
+  object-fit: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.input-box{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-22%);
+  transform: translateY(-5%);
+} */
